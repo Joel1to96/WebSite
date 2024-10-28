@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tu Restaurante - Inicio</title>
+    <!-- Meta etiquetas para SEO -->
+    <meta name="description" content="Disfruta del mejor pollo frito rebozado al estilo Miami Vice en nuestro restaurante ambientado en los años 80.">
+    <meta name="keywords" content="Restaurante, Pollo Frito, Miami Vice, Años 80, Comida Rápida, Rebozado">
+    <!-- Enlaces a Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Pacifico&display=swap" rel="stylesheet">
+    <!-- Enlace al archivo de estilos -->
+    <link rel="stylesheet" href="estilos.css">
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <img src="logo.png" alt="Logo del Restaurante">
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="menu.html">Menú</a></li>
+                <li><a href="menu.html">Ubicaciones</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Contenido principal -->
+    <main>
+        <!-- Sección del banner -->
+        <section class="banner">
+            <h1></h1>
+        </section>
+        <!-- Sección de descripción -->
+        <section class="descripcion">
+            <h1>Bienvenido a nuestro restaurante ambientado en Miami Vice, donde combinamos sabores clásicos con una experiencia única.</h1>
+        </section>
+        <!-- Sección de galería de imágenes -->
+        <section class="galeria">
+            <h2>Nuestros Platos Estrella</h2>
+            <div class="galeria-imagenes">
+                <div class="image-container">
+                    <img src="plato1.jpg" alt="Pollo frito clásico">
+                </div>
+                <div class="image-container">
+                    <img src="plato2.jpg" alt="Combo especial de pollo y papas">
+                </div>
+                <div class="image-container">
+                    <img src="plato3.jpg" alt="Hamburguesa de pollo crujiente">
+                </div>
+                <!-- Añade más imágenes según sea necesario -->
+            </div>
+            
+        </section>
+        <!-- Sección de video promocional -->
+        <section class="video-promocional">
+            <h2>Conoce Nuestra Experiencia</h2>
+            <video autoplay muted playsinline>
+                <source src="video.mp4" type="video/mp4">
+                Tu navegador no soporta videos HTML5.
+            </video>
+
+            
+        </section>
+        <!-- Sección de contacto -->
+        
+    </main>
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2023 Chicken Crunchers</p>
+        <p>Síguenos en:</p>
+        <a href="https://www.facebook.com/profile.php?id=61566740222272" target="blank">
+            <img src="facebook.png" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/chickencrunchers/" target="blank">
+            <img src="instagram.png" alt="Instagram">
+        </a>
+        <a href="https://x.com/chickencunchers?s=21&t=tUd2LM4uxL0HQbIPGT7hJA" target="blank">
+            <img src="x.png" alt="Twitter">
+        </a>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var video = document.getElementById('video-promocional');
+            video.play().catch(function(error) {
+                console.log('Autoplay no permitido:', error);
+            });
+        });
+    </script>
+</body>
+</html>

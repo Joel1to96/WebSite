@@ -1,0 +1,387 @@
+/* Definición de variables de colores */
+:root {
+    --color-rosa: #FF69B4;
+    --color-turquesa: #40E0D0;
+    --color-amarillo: #FFD700;
+    --color-fondo: #141414;
+    --color-texto: #FFFFFF;
+}
+
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+}
+
+/* Encabezado y navegación */
+header {
+    background-color: var(--color-fondo);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    height: 100px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav a {
+    color: var(--color-rosa);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: var(--color-amarillo);
+}
+
+/* Banner */
+.banner {
+    background-image: url('fondo.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 48px;
+    color: var(--color-rosa);
+    text-shadow: 2px 2px #000;
+    font-family: 'Pacifico', cursive;
+}
+
+/* Secciones */
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.descrpcion h1 {
+    font-family: 'Pacifico', cursive;
+    color: var(--color-amarillo);
+    margin-bottom: 20px;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    color: var(--color-amarillo);
+    margin-bottom: 20px;
+    font-size: 48px;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Botón de Glovo */
+.boton-glovo {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: var(--color-amarillo);
+    color: var(--color-fondo);
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.boton-glovo:hover {
+    background-color: var(--color-rosa);
+}
+
+/* Galería de imágenes */
+.galeria-imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.galeria-imagenes .image-container {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Centra horizontalmente */
+    background-color: #000; /* Fondo para rellenar espacios */
+}
+
+.galeria-imagenes .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.galeria-imagenes .image-container img:hover {
+    transform: scale(1.05);
+}
+
+/* Video promocional */
+.video-promocional video {
+    width: 80%;
+    max-width: 800px;
+    border: 5px solid var(--color-rosa);
+    border-radius: 10px;
+}
+
+/* Formulario de contacto */
+#contacto {
+    background-color: var(--color-turquesa);
+    color: var(--color-fondo);
+}
+
+#contacto input,
+#contacto textarea {
+    width: 80%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+#contacto button {
+    padding: 10px 20px;
+    background-color: var(--color-amarillo);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+#contacto button:hover {
+    background-color: var(--color-rosa);
+}
+
+/* Pie de página */
+footer {
+    background-color: var(--color-turquesa);
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a img {
+    width: 40px;
+    margin: 0 10px;
+    transition: transform 0.3s;
+}
+
+footer a img:hover {
+    transform: scale(1.1);
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 600px) {
+    header, nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+
+    .banner {
+        padding: 50px 20px;
+    }
+
+    .banner h1 {
+        font-size: 32px;
+    }
+
+    .galeria-imagenes .image-container {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+
+    #contacto input,
+    #contacto textarea {
+        width: 100%;
+    }
+
+    .video-promocional video {
+        width: 100%;
+    }
+}
+
+/* Estilos específicos para la página del menú */
+.pagina-menu .container {
+    display: flex;
+}
+
+.pagina-menu .sidebar {
+    width: 250px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.pagina-menu .sidebar h3 {
+    font-size: 24px;
+    color: var(--color-amarillo);
+    margin-bottom: 20px;
+    font-family: 'Pacifico', cursive;
+}
+
+.pagina-menu .sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.pagina-menu .sidebar ul li {
+    margin-bottom: 10px;
+}
+
+.pagina-menu .sidebar ul li a {
+    color: var(--color-texto);
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pagina-menu .sidebar ul li a:hover {
+    color: var(--color-rosa);
+}
+
+.pagina-menu .sidebar ul ul {
+    margin-left: 15px;
+}
+
+.pagina-menu .sidebar ul ul li {
+    margin-bottom: 5px;
+}
+
+.pagina-menu .sidebar ul ul li a {
+    font-size: 14px;
+}
+
+.pagina-menu .subfamilias-list {
+    display: none;
+}
+
+/* Contenido principal */
+.pagina-menu .main-content {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.pagina-menu .main-content h2 {
+    font-size: 32px;
+    color: var(--color-rosa);
+    margin-bottom: 20px;
+    font-family: 'Pacifico', cursive;
+}
+
+.pagina-menu .main-content h3 {
+    font-size: 28px;
+    color: var(--color-amarillo);
+    margin-bottom: 20px;
+    font-family: 'Pacifico', cursive;
+}
+
+.pagina-menu .main-content p {
+    font-size: 18px;
+}
+
+/* Estilos para los ítems del menú */
+.pagina-menu .menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.pagina-menu .menu-item {
+    width: calc(33.333% - 20px);
+    margin: 10px;
+    background-color: #ffffff10;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.pagina-menu .menu-item h5 {
+    font-size: 18px;
+    color: var(--color-texto);
+    margin: 10px 0;
+}
+
+.pagina-menu .menu-item .precio {
+    font-size: 16px;
+    color: var(--color-rosa);
+    font-weight: bold;
+}
+
+/* Estilos para la imagen */
+.pagina-menu .image-container {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+}
+
+.pagina-menu .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Estilos responsivos para la página del menú */
+@media (max-width: 1024px) {
+    .pagina-menu .menu-item {
+        width: calc(50% - 20px);
+    }
+}
+
+@media (max-width: 768px) {
+    .pagina-menu .container {
+        flex-direction: column;
+    }
+
+    .pagina-menu .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .pagina-menu .main-content {
+        padding: 10px;
+    }
+
+    .pagina-menu .menu-item {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
