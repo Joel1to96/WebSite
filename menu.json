@@ -5,7 +5,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
         "Precio": "3.50",
-        "Imagen": "1 CONTRAMUSLO + 1 SALSA.png",
+        "Imagen": "CONTRAMUSLO.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "6",
         "OrdenArtículo": ""
@@ -27,7 +27,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
         "Precio": "14.90",
-        "Imagen": "11 TENDERS + 2 SALSAS.png",
+        "Imagen": "tenders.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -38,7 +38,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
         "Precio": "11.90",
-        "Imagen": "12 ALITAS + 2 SALSAS.png",
+        "Imagen": "AlitasSinRebozar.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -49,7 +49,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
         "Precio": "11.90",
-        "Imagen": "12 ALITAS REBOZADAS + 2 SALSAS.png",
+        "Imagen": "AlitasRebozadas2.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -60,7 +60,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
         "Precio": "18.90",
-        "Imagen": "14 TENDERS + 3 SALSAS.png",
+        "Imagen": "tenders.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -71,7 +71,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
         "Precio": "2.50",
-        "Imagen": "2 ALITAS + 1 SALSA.png",
+        "Imagen": "AlitasSinRebozar.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -82,7 +82,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
         "Precio": "2.50",
-        "Imagen": "2 ALITAS REBOZADAS + 1 SALSA.png",
+        "Imagen": "alitasRebozadas.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -93,7 +93,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
         "Precio": "6.90",
-        "Imagen": "2 CONTRAMUSLO + 1 SALSA.png",
+        "Imagen": "CONTRAMUSLO.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "6",
         "OrdenArtículo": ""
@@ -126,7 +126,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
         "Precio": "9.90",
-        "Imagen": "3 CONTRAMUSLOS + 1 SALSA.png",
+        "Imagen": "CONTRAMUSLO.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "6",
         "OrdenArtículo": ""
@@ -181,7 +181,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
         "Precio": "12.90",
-        "Imagen": "4 CONTRAMUSLOS + 2 SALSAS.png",
+        "Imagen": "CONTRAMUSLO.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "6",
         "OrdenArtículo": ""
@@ -236,7 +236,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
         "Precio": "18.90",
-        "Imagen": "6 CONTRAMUSLOS + 2 SALSAS.png",
+        "Imagen": "CONTRAMUSLO.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "6",
         "OrdenArtículo": ""
@@ -269,7 +269,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
         "Precio": "8.70",
-        "Imagen": "8 ALITAS REBOZADAS + 2 SALSAS.png",
+        "Imagen": "AlitasRebozadas2.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -280,7 +280,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
         "Precio": "11.50",
-        "Imagen": "8 TENDERS + 2 SALSAS.png",
+        "Imagen": "tenders.png",
         "OrdenFamilia": "1",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -324,31 +324,29 @@
         "Familia": "POSTRES",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "BATIDO CLASICO CHOCOLATE.png",
+        "Imagen": "chocolate.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
         "Referencia": "31",
-        "Código": "",
         "Artículo": "BATIDO CLASICO FRESA",
         "Familia": "POSTRES",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "BATIDO CLASICO FRESA.png",
+        "Imagen": "fresa2.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
         "Referencia": "32",
-        "Código": "",
         "Artículo": "BATIDO CLASICO VAINILLA",
         "Familia": "POSTRES",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "BATIDO CLASICO VAINILLA.png",
+        "Imagen": "vainilla3.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
@@ -563,7 +561,7 @@
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
         "Precio": "8.90",
-        "Imagen": "Nuggets2.png",
+        "Imagen": "SweetAlabama.png",
         "OrdenFamilia": "",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
