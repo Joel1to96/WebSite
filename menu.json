@@ -556,55 +556,51 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
+        "Referencia": "501",
         "Artículo": "POPCORN BBQ +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
         "Precio": "8.90",
-        "Imagen": "SweetAlabama.png",
+        "Imagen": "NuggetsBBQ.png",
         "OrdenFamilia": "",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "502",
         "Artículo": "POPCORN PICANTES +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
         "Precio": "8.90",
-        "Imagen": "POPCORN PICANTES +-15 pcs.png",
+        "Imagen": "NuggetsPicantes.png",
         "OrdenFamilia": "",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "503",
         "Artículo": "POPCORN HONEY BUTTER +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
         "Precio": "8.90",
-        "Imagen": "POPCORN HONEY BUTTER +-15 pcs.png",
+        "Imagen": "NuggetsHoneyB.png",
         "OrdenFamilia": "",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "504",
         "Artículo": "POPCORN CLASICOS +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
         "Precio": "8.90",
-        "Imagen": "POPCORN CLASICOS +-15 pcs.png",
+        "Imagen": "Nuggets2.png",
         "OrdenFamilia": "",
         "OrdenSubfamilia": "",
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "505",
         "Artículo": "SALSA BBQ KOREANA",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -615,8 +611,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "506",
         "Artículo": "SALSA HONEY BUTTER",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -627,8 +622,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "507",
         "Artículo": "SALSA MOSTAZA Y MIEL",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -639,8 +633,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "508",
         "Artículo": "SALSA PICANTE",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -651,8 +644,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "509",
         "Artículo": "SALSA SOJA DULCE",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -663,8 +655,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "500",
         "Artículo": "SALSA YOGURT",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
