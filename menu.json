@@ -1,6 +1,6 @@
 [
     {
-        "Referencia": "1",
+        "Referencia": "111",
         "Artículo": "1 CONTRAMUSLO + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
@@ -11,7 +11,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "2",
+        "Referencia": "121",
         "Artículo": "1 MUSLO + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "MUSLOS",
@@ -22,7 +22,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "3",
+        "Referencia": "135",
         "Artículo": "11 TENDERS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -33,7 +33,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "4",
+        "Referencia": "145",
         "Artículo": "12 ALITAS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
@@ -44,7 +44,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "5",
+        "Referencia": "155",
         "Artículo": "12 ALITAS REBOZADAS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -55,7 +55,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "6",
+        "Referencia": "136",
         "Artículo": "14 TENDERS + 3 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -66,7 +66,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "7",
+        "Referencia": "141",
         "Artículo": "2 ALITAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
@@ -77,7 +77,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "8",
+        "Referencia": "151",
         "Artículo": "2 ALITAS REBOZADAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -88,7 +88,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "9",
+        "Referencia": "112",
         "Artículo": "2 CONTRAMUSLO + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
@@ -99,7 +99,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "10",
+        "Referencia": "131",
         "Artículo": "2 TENDERS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -110,7 +110,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "11",
+        "Referencia": "156",
         "Artículo": "24 ALITAS REBOZADAS + 3 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -121,7 +121,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "12",
+        "Referencia": "113",
         "Artículo": "3 CONTRAMUSLOS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
@@ -132,7 +132,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "13",
+        "Referencia": "122",
         "Artículo": "3 MUSLOS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "MUSLOS",
@@ -143,7 +143,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "14",
+        "Referencia": "132",
         "Artículo": "3 TENDERS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -154,7 +154,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "15",
+        "Referencia": "142",
         "Artículo": "4 ALITAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
@@ -165,7 +165,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "16",
+        "Referencia": "152",
         "Artículo": "4 ALITAS REBOZADAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -176,7 +176,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "17",
+        "Referencia": "114",
         "Artículo": "4 CONTRAMUSLOS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
@@ -187,7 +187,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "18",
+        "Referencia": "123",
         "Artículo": "5 MUSLOS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "MUSLOS",
@@ -198,7 +198,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "19",
+        "Referencia": "133",
         "Artículo": "5 TENDERS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -209,7 +209,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "20",
+        "Referencia": "143",
         "Artículo": "6 ALITAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
@@ -220,7 +220,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "21",
+        "Referencia": "153",
         "Artículo": "6 ALITAS REBOZADAS + 1 SALSA",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -231,7 +231,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "22",
+        "Referencia": "115",
         "Artículo": "6 CONTRAMUSLOS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "CONTRAMUSLO",
@@ -242,7 +242,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "23",
+        "Referencia": "124",
         "Artículo": "6 MUSLOS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "MUSLOS",
@@ -253,7 +253,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "24",
+        "Referencia": "144",
         "Artículo": "8 ALITAS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS SIN REBOZAR",
@@ -264,7 +264,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "25",
+        "Referencia": "154",
         "Artículo": "8 ALITAS REBOZADAS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "ALITAS REBOZADAS",
@@ -275,7 +275,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "26",
+        "Referencia": "134",
         "Artículo": "8 TENDERS + 2 SALSAS",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "TENDER STRIPS",
@@ -286,7 +286,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "27",
+        "Referencia": "51",
         "Artículo": "AGUA",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -294,10 +294,10 @@
         "Imagen": "AGUA.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "1"
     },
     {
-        "Referencia": "28",
+        "Referencia": "52",
         "Artículo": "AGUA GAS",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -305,10 +305,10 @@
         "Imagen": "AGUA GAS.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "2"
     },
     {
-        "Referencia": "29",
+        "Referencia": "53",
         "Artículo": "APPLETISER",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -316,10 +316,10 @@
         "Imagen": "APPLETISER.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "3"
     },
     {
-        "Referencia": "30",
+        "Referencia": "71",
         "Artículo": "BATIDO CLASICO CHOCOLATE",
         "Familia": "POSTRES",
         "Subfamilia": "",
@@ -327,10 +327,10 @@
         "Imagen": "chocolate.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "1"
     },
     {
-        "Referencia": "31",
+        "Referencia": "72",
         "Artículo": "BATIDO CLASICO FRESA",
         "Familia": "POSTRES",
         "Subfamilia": "",
@@ -338,10 +338,10 @@
         "Imagen": "fresa2.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "2"
     },
     {
-        "Referencia": "32",
+        "Referencia": "73",
         "Artículo": "BATIDO CLASICO VAINILLA",
         "Familia": "POSTRES",
         "Subfamilia": "",
@@ -349,11 +349,10 @@
         "Imagen": "vainilla3.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "3"
     },
     {
-        "Referencia": "33",
-        "Código": "",
+        "Referencia": "41",
         "Artículo": "CHIKIN MU",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -361,11 +360,10 @@
         "Imagen": "CHIKIN MU.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "1"
     },
     {
-        "Referencia": "34",
-        "Código": "",
+        "Referencia": "54",
         "Artículo": "COCA COLA",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -373,11 +371,10 @@
         "Imagen": "COCA COLA.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "4"
     },
     {
-        "Referencia": "35",
-        "Código": "",
+        "Referencia": "55",
         "Artículo": "COCA COLA ZERO",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -385,11 +382,10 @@
         "Imagen": "COCA COLA ZERO.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "5"
     },
     {
-        "Referencia": "36",
-        "Código": "",
+        "Referencia": "61",
         "Artículo": "CORONA",
         "Familia": "CERVEZAS",
         "Subfamilia": "",
@@ -397,11 +393,10 @@
         "Imagen": "CORONA.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "1"
     },
     {
-        "Referencia": "37",
-        "Código": "",
+        "Referencia": "31",
         "Artículo": "CREMA DE BACON",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -409,11 +404,10 @@
         "Imagen": "CREMA DE BACON.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "1"
     },
     {
-        "Referencia": "38",
-        "Código": "",
+        "Referencia": "74",
         "Artículo": "CRUNCHER SUNDAE",
         "Familia": "POSTRES",
         "Subfamilia": "",
@@ -421,11 +415,10 @@
         "Imagen": "CRUNCHER SUNDAE.png",
         "OrdenFamilia": "7",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "4"
     },
     {
-        "Referencia": "39",
-        "Código": "",
+        "Referencia": "62",
         "Artículo": "DORADA",
         "Familia": "CERVEZAS",
         "Subfamilia": "",
@@ -433,11 +426,10 @@
         "Imagen": "DORADA.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "2"
     },
     {
-        "Referencia": "40",
-        "Código": "",
+        "Referencia": "42",
         "Artículo": "ENSALADA DE COL",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -445,11 +437,10 @@
         "Imagen": "ENSALADA DE COL.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "2"
     },
     {
-        "Referencia": "41",
-        "Código": "",
+        "Referencia": "43",
         "Artículo": "ENSALADA WAKAME",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -457,11 +448,10 @@
         "Imagen": "ENSALADA WAKAME.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "3"
     },
     {
-        "Referencia": "42",
-        "Código": "",
+        "Referencia": "56",
         "Artículo": "FANTA LIMON",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -469,11 +459,10 @@
         "Imagen": "FANTA LIMON.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "6"
     },
     {
-        "Referencia": "43",
-        "Código": "",
+        "Referencia": "57",
         "Artículo": "FANTA NARANJA",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -481,11 +470,10 @@
         "Imagen": "FANTA NARANJA.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "7"
     },
     {
         "Referencia": "44",
-        "Código": "",
         "Artículo": "MAC & CHEESE",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -493,11 +481,10 @@
         "Imagen": "MAC & CHEESE.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "4"
     },
     {
-        "Referencia": "45",
-        "Código": "",
+        "Referencia": "32",
         "Artículo": "Ketchup Heinz",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
@@ -505,11 +492,10 @@
         "Imagen": "Ketchup Heinz.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "2"
     },
     {
-        "Referencia": "46",
-        "Código": "",
+        "Referencia": "58",
         "Artículo": "MONSTER ENERGY",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -517,11 +503,10 @@
         "Imagen": "MONSTER ENERGY.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "8"
     },
     {
-        "Referencia": "47",
-        "Código": "",
+        "Referencia": "59",
         "Artículo": "NESTEA MANGO PIÑA",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -529,11 +514,10 @@
         "Imagen": "NESTEA MANGO PIÑA.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "9"
     },
     {
-        "Referencia": "48",
-        "Código": "",
+        "Referencia": "45",
         "Artículo": "PAPAS FRITAS",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -541,11 +525,10 @@
         "Imagen": "PAPAS FRITAS.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "5"
     },
     {
-        "Referencia": "49",
-        "Código": "",
+        "Referencia": "46",
         "Artículo": "PAPAS RED",
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
@@ -553,10 +536,10 @@
         "Imagen": "PAPAS RED.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "6"
     },
     {
-        "Referencia": "501",
+        "Referencia": "161",
         "Artículo": "POPCORN BBQ +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
@@ -567,7 +550,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "502",
+        "Referencia": "162",
         "Artículo": "POPCORN PICANTES +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
@@ -578,7 +561,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "503",
+        "Referencia": "163",
         "Artículo": "POPCORN HONEY BUTTER +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
@@ -589,7 +572,7 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "504",
+        "Referencia": "164",
         "Artículo": "POPCORN CLASICOS +-15 pcs ",
         "Familia": "POLLO POR PIEZAS",
         "Subfamilia": "POPCORN NUGGETS",
@@ -600,86 +583,84 @@
         "OrdenArtículo": ""
     },
     {
-        "Referencia": "505",
+        "Referencia": "33",
         "Artículo": "SALSA BBQ KOREANA",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA BBQ KOREANA.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "3"
     },
     {
-        "Referencia": "506",
+        "Referencia": "34",
         "Artículo": "SALSA HONEY BUTTER",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA HONEY BUTTER.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "4"
     },
     {
-        "Referencia": "507",
+        "Referencia": "35",
         "Artículo": "SALSA MOSTAZA Y MIEL",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA MOSTAZA Y MIEL.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "5"
     },
     {
-        "Referencia": "508",
+        "Referencia": "36",
         "Artículo": "SALSA PICANTE",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA PICANTE.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "6"
     },
     {
-        "Referencia": "509",
+        "Referencia": "37",
         "Artículo": "SALSA SOJA DULCE",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA SOJA DULCE.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "7"
     },
     {
-        "Referencia": "500",
+        "Referencia": "38",
         "Artículo": "SALSA YOGURT",
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
         "Imagen": "SALSA YOGURT.png",
-        "OrdenFamilia": "",
+        "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "8"
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "21",
         "Artículo": "SOUTH BEACH",
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
         "Precio": "9.90",
-        "Imagen": "SOUTH BEACH.png",
+        "Imagen": "SweetAlabama.png",
         "OrdenFamilia": "2",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "2"
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "22",
         "Artículo": "SWEET ALABAMA",
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
@@ -690,8 +671,7 @@
         "OrdenArtículo": "3"
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "23",
         "Artículo": "SWEET ALABAMA VEGETARIANA",
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
@@ -702,8 +682,7 @@
         "OrdenArtículo": "1"
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "510",
         "Artículo": "SPRITE",
         "Familia": "REFRESCOS",
         "Subfamilia": "",
@@ -711,11 +690,10 @@
         "Imagen": "SPRITE.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "10"
     },
     {
-        "Referencia": "50",
-        "Código": "",
+        "Referencia": "63",
         "Artículo": "STELLA ARTOIS",
         "Familia": "CERVEZAS",
         "Subfamilia": "",
@@ -723,6 +701,6 @@
         "Imagen": "STELLA ARTOIS.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": ""
+        "OrdenArtículo": "3"
     }
 ]
