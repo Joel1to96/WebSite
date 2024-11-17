@@ -401,7 +401,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "1.90",
-        "Imagen": "CREMA DE BACON.png",
+        "Imagen": "crema de bacon.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "1"
@@ -489,7 +489,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "Ketchup Heinz.png",
+        "Imagen": "ketchup heinz.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "2"
@@ -654,10 +654,10 @@
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
         "Precio": "9.90",
-        "Imagen": "SweetAlabama.png",
+        "Imagen": "SouthBeach.png",
         "OrdenFamilia": "2",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": "2"
+        "OrdenArtículo": "1"
     },
     {
         "Referencia": "22",
@@ -665,10 +665,10 @@
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
         "Precio": "9.90",
-        "Imagen": "SWEET ALABAMA.png",
+        "Imagen": "SweetAlabama.png",
         "OrdenFamilia": "2",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": "3"
+        "OrdenArtículo": "2"
     },
     {
         "Referencia": "23",
@@ -676,10 +676,10 @@
         "Familia": "HAMBURGUESAS",
         "Subfamilia": "",
         "Precio": "9.90",
-        "Imagen": "SWEET ALABAMA.png",
+        "Imagen": "SweetAlabama.png",
         "OrdenFamilia": "2",
         "OrdenSubfamilia": "",
-        "OrdenArtículo": "1"
+        "OrdenArtículo": "3"
     },
     {
         "Referencia": "510",
