@@ -352,17 +352,6 @@
         "OrdenArtículo": "3"
     },
     {
-        "Referencia": "41",
-        "Artículo": "CHIKIN MU",
-        "Familia": "PARA ACOMPAÑAR",
-        "Subfamilia": "",
-        "Precio": "3.50",
-        "Imagen": "chikin mu.png",
-        "OrdenFamilia": "4",
-        "OrdenSubfamilia": "",
-        "OrdenArtículo": "1"
-    },
-    {
         "Referencia": "54",
         "Artículo": "COCA COLA",
         "Familia": "REFRESCOS",
@@ -445,7 +434,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "4.50",
-        "Imagen": "ensalada wakame.png",
+        "Imagen": "wakame.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
@@ -511,7 +500,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "nestea mango piña.png",
+        "Imagen": "nestea mango piña.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "9"
@@ -687,7 +676,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "SPRITE.png",
+        "Imagen": "sprite.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "10"
