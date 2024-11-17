@@ -691,5 +691,16 @@
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
+    },
+    {
+        "Referencia": "47",
+        "Artículo": "PAPAS LOCAS CON MERMELADA DE BACON",
+        "Familia": "PARA ACOMPAÑAR",
+        "Subfamilia": "",
+        "Precio": "7.00",
+        "Imagen": "papas locas.png",
+        "OrdenFamilia": "4",
+        "OrdenSubfamilia": "",
+        "OrdenArtículo": "7"
     }
 ]
