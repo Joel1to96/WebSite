@@ -291,7 +291,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "1.90",
-        "Imagen": "AGUA.png",
+        "Imagen": "agua.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "1"
@@ -302,7 +302,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "1.90",
-        "Imagen": "AGUA GAS.png",
+        "Imagen": "agua gas.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "2"
@@ -313,7 +313,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "3.50",
-        "Imagen": "APPLETISER.png",
+        "Imagen": "appletiser.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
@@ -357,7 +357,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "3.50",
-        "Imagen": "CHIKIN MU.png",
+        "Imagen": "chikin mu.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "1"
@@ -368,7 +368,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "COCA COLA.png",
+        "Imagen": "coca cola.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "4"
@@ -379,7 +379,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "COCA COLA ZERO.png",
+        "Imagen": "coca cola zero.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "5"
@@ -390,7 +390,7 @@
         "Familia": "CERVEZAS",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "CORONA.png",
+        "Imagen": "corona.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "1"
@@ -423,7 +423,7 @@
         "Familia": "CERVEZAS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "DORADA.png",
+        "Imagen": "dorada.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "2"
@@ -434,7 +434,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "ENSALADA DE COL.png",
+        "Imagen": "ensalada de col.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "2"
@@ -445,7 +445,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "4.50",
-        "Imagen": "ENSALADA WAKAME.png",
+        "Imagen": "ensalada wakame.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
@@ -456,7 +456,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "FANTA LIMON.png",
+        "Imagen": "fanta limon.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "6"
@@ -467,7 +467,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "FANTA NARANJA.png",
+        "Imagen": "fanta naranja.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "7"
@@ -478,7 +478,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "4.90",
-        "Imagen": "MAC & CHEESE.png",
+        "Imagen": "mac & cheese.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "4"
@@ -500,7 +500,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "MONSTER ENERGY.png",
+        "Imagen": "monster energy.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "8"
@@ -511,7 +511,7 @@
         "Familia": "REFRESCOS",
         "Subfamilia": "",
         "Precio": "2.90",
-        "Imagen": "NESTEA MANGO PIÑA.png",
+        "Imagen": "nestea mango piña.png",
         "OrdenFamilia": "5",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "9"
@@ -522,7 +522,7 @@
         "Familia": "PARA ACOMPAÑAR",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "PAPAS FRITAS.png",
+        "Imagen": "papas fritas.png",
         "OrdenFamilia": "4",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "5"
@@ -588,7 +588,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA BBQ KOREANA.png",
+        "Imagen": "salsa bbq koreana.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
@@ -599,7 +599,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA HONEY BUTTER.png",
+        "Imagen": "salsa honey butter.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "4"
@@ -610,7 +610,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA MOSTAZA Y MIEL.png",
+        "Imagen": "salsa mostaza y miel.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "5"
@@ -621,7 +621,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA PICANTE.png",
+        "Imagen": "salsa picante.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "6"
@@ -632,7 +632,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA SOJA DULCE.png",
+        "Imagen": "salsa soja dulce.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "7"
@@ -643,7 +643,7 @@
         "Familia": "SALSAS CASERAS",
         "Subfamilia": "",
         "Precio": "0.90",
-        "Imagen": "SALSA YOGURT.png",
+        "Imagen": "salsa yogurt.png",
         "OrdenFamilia": "3",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "8"
@@ -698,7 +698,7 @@
         "Familia": "CERVEZAS",
         "Subfamilia": "",
         "Precio": "3.90",
-        "Imagen": "STELLA ARTOIS.png",
+        "Imagen": "stella artois.png",
         "OrdenFamilia": "6",
         "OrdenSubfamilia": "",
         "OrdenArtículo": "3"
